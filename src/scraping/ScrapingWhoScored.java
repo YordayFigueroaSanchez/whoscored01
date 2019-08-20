@@ -30,7 +30,7 @@ public class ScrapingWhoScored {
 	public static void main(String[] args) throws ParserConfigurationException, TransformerConfigurationException {
 		// TODO Auto-generated method stub
 
-		String url = "https://coinmarketcap.com/";
+		String url = "https://es.whoscored.com/Matches/1394139/LiveStatistics/España-LaLiga-2019-2020-Athletic-Bilbao-Barcelona/";
 
 		DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
